@@ -1,0 +1,22 @@
+.navbar {
+	margin-bottom: 0;
+     border-radius: 0;
+}
+.jumbotron{
+    background-color:#8A0808;
+    padding: 25px;
+}
+.container{
+    background-color:#000000;
+}
+    
+footer {
+    color: white;
+    background-color:#000;
+    padding: 7px;
+}
+.modal h5,h3{
+   	color : #000;
+    font-size: 25px;
+    font-weight: bold;
+}
